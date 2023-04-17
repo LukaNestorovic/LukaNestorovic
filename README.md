@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Nestorovic</h1>
 <h3 align="center">A student of software developing</h3>
 
-- 🔭 I’m currently studying **Data science on FTN**
+- 🔭 I’m currently studying **Data science at Faculty of Techincal Sciences**
 
 - 🌱 I’m currently learning **new languages and programming skills**
 
